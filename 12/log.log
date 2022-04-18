@@ -1,0 +1,842 @@
+>
+>
+>
+>
+>
+>
+>
+>
+[21:59:00 INFO]: [Geyser-Spigot] /127.0.0.1:50710 尝试连接!
+[21:59:01 INFO]: [Geyser-Spigot] 玩家以 NM70727 的用户名建立了连接
+[21:59:01 INFO]: [Geyser-Spigot] NM70727 (登录为: NM70727) 已连接到 Java 服务器
+[21:59:01 WARN]: [Geyser-Spigot] 非法的本地下载和加载请求: zh_cn
+[21:59:01 INFO]: [FastLogin] Handling player NM70727
+[21:59:01 INFO]: [FastLogin] Skipping name conflict checking for player NM70727
+[21:59:01 INFO]: UUID of player .NM70727 is 00000000-0000-0000-0009-01fc4c122978
+[21:59:02 INFO]: [floodgate] Floodgate 玩家 .NM70727 加入了 (UUID: 00000000-0000-0000-0009-01fc4c122978)
+[21:59:02 INFO]: [Matrix] (!) Player .NM70727 is connecting with Bedrock client, Matrix will not detect him
+[21:59:02 INFO]: .NM70727[/127.0.0.1:0] logged in with entity id 321779 at ([world_nether]7.4263554, 161.0, 726.6359)
+[21:59:02 INFO]: IpacEL > .NM70727 进入了服务器
+[21:59:02 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:02 INFO]: [Matrix] (Via) Player .NM70727 joined with (1.18.x/758) client
+[21:59:02 INFO]: [FastLogin] Player .NM70727 is connecting through Geyser Floodgate.
+[21:59:02 INFO]: [AuthMe] .NM70727 logged in 127.0.0.1
+[21:59:02 INFO]: [FastLogin] Logging player .NM70727 in
+[21:59:02 WARN]: [FastLogin] Player CraftPlayer{name=.NM70727} is already authenticated. Cancelling force login.
+[21:59:02 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:02 WARN]: java.lang.NullPointerException
+[21:59:02 WARN]: java.lang.NullPointerException
+[21:59:02 WARN]: java.lang.NullPointerException
+[21:59:02 WARN]: java.lang.NullPointerException
+[21:59:02 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:02 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:03 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:04 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:05 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:05 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:06 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:07 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:08 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:08 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:09 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:10 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:11 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:11 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:12 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:13 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:14 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:14 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:15 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:16 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:17 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:17 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:18 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:19 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:20 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:20 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:21 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:22 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:23 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:23 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:24 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:25 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:26 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:26 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:27 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:28 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:29 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:29 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:30 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:31 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:32 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:32 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:33 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: java.lang.NullPointerException
+[21:59:34 WARN]: [Geyser-Spigot] Error thrown in NM70727's event loop!
+java.lang.NullPointerException: null
+[21:59:34 INFO]: [Geyser-Spigot] NM70727 因为 基岩版客户端已断开连接 与 Java 服务器断开了连接
+[21:59:34 INFO]: [floodgate] Floodgate 玩家 .NM70727 已断开连接
+[21:59:34 INFO]: .NM70727 lost connection: Disconnected
+[21:59:34 INFO]: IpacEL > .NM70727 跑了
