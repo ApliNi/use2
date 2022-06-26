@@ -1,3 +1,6 @@
+//缓存测试
+var $test_v = 112;
+
 function createMinecraftHead(player,size,completed,failed) {
 	var faceImage = new Image();
 	faceImage.onload = function() {
