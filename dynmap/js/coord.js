@@ -1,3 +1,6 @@
+//测试
+var $ccccccccc = 112;
+
 componentconstructors['coord'] = function(dynmap, configuration) {
 
 	var Coord = L.Control.extend({
