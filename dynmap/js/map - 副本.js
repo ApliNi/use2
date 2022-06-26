@@ -74,7 +74,7 @@ DynMap.prototype = {
 	formatUrl: function(name, options) {
 		var url = this.options.url[name];
 		$.each(options, function(n,v) {
-			url = url.replace("{" + n + "}", v);
+			url = url.replace("{" + n + "}", encodeURIComponent(v));
 		});
 		return url;
 	},
@@ -762,7 +762,7 @@ DynMap.prototype = {
 			.append(playerIconContainer = $('<span/>')
 				.addClass('playerIcon')
 				.append($('<img/>').attr({ src: 'images/player_face.png' }))
-				.attr({ title: '跟随玩家' })
+				.attr({ title: 'Follow player' })
 				.click(function() {
 					var follow = player !== me.followingPlayer;
 					me.followPlayer(follow ? player : null);
@@ -771,7 +771,7 @@ DynMap.prototype = {
 			.append(player.menuname = $('<a/>')
 				.attr({
 					href: '#',
-					title: '定位到玩家'
+					title: 'Center on player'
 				})
 				.append(player.name)
 			)

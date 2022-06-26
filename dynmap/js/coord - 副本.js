@@ -13,14 +13,14 @@ componentconstructors['coord'] = function(dynmap, configuration) {
 			this._map = map;
 			$('<span/>').addClass('coord-control-label').text((configuration.label || 'x,y,z') + ': ').appendTo(this._container);
 			$('<br/>').appendTo(this._container);
-			this.valfield.addClass('coord-control-value').text(configuration.hidey ? '[ ≥▽≤]//' : '[ ≥▽≤]//,---').appendTo(this._container);
+			this.valfield.addClass('coord-control-value').text(configuration.hidey ? '---,---' : '---,---,---').appendTo(this._container);
 			if(configuration['show-mcr']) {
 				$('<br/>').appendTo(this._container);
-				this.mcrfield.addClass('coord-control-value').text('r.0.0.mca').appendTo(this._container);
+				this.mcrfield.addClass('coord-control-value').text('--------').appendTo(this._container);
 			}
 			if(configuration['show-chunk']) {
 				$('<br/>').appendTo(this._container);
-				this.chunkfield.addClass('coord-control-value').text('Chunk: [ ≥▽≤]//').appendTo(this._container);
+				this.chunkfield.addClass('coord-control-value').text('Chunk: ---,---').appendTo(this._container);
 			}
 			this._update();
 			return this.getContainer();
@@ -56,12 +56,12 @@ componentconstructors['coord'] = function(dynmap, configuration) {
 	dynmap.map.on('mouseout', function(mevent) {
 		if(!dynmap.map) return;
 		if(configuration.hidey)
-			coord.valfield.text('[ ≥▽≤]//');
+			coord.valfield.text('---,---');
 		else
-			coord.valfield.text('[ ≥▽≤]//,---');
+			coord.valfield.text('---,---,---');
 		if(configuration['show-mcr'])
-			coord.mcrfield.text('r.0.0.mca');
+			coord.mcrfield.text('--------');
 		if(configuration['show-chunk'])
-			coord.chunkfield.text('Chunk: [ ≥▽≤]//');
+			coord.chunkfield.text('Chunk: ---,---');
 	});
 };
